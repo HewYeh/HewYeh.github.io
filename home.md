@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: "Home"
 permalink: /home/
-theme: jekyll-theme-minimal
 ---
 # 🏠 Welcome! Hoan-Gêng! 歡迎!
 
