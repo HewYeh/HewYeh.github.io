@@ -2,6 +2,7 @@
 layout: page
 title: "Home"
 permalink: /home/
+theme: jekyll-theme-minimal
 ---
 # 🏠 Welcome! Hoan-Gêng! 歡迎!
 
