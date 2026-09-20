@@ -1,5 +1,8 @@
 # Welcome! Hoan-Gêng (歡迎)!
 
+# About
+This blog is a place for me to share fun and niche facts for Taiwanese music enjoyers. I realized that over the years, I have collected a lot of cool facts about Taiwanese music history that would be cool to highlight. I also wanted to share my love for Taiwanese music and find people with similar interests!
+
 # The Diverse Landscape of Taiwanese Music
 Part of the inspiration of this blog was the incredible diversity which exists within Taiwanese music. For example, you can listen to a French-inspired album by Siri Lee ([李竺芯《水 Súi》](https://youtu.be/ehl-pc0syCU)) and then proceed to listen to Taiwanese Enka by Chiam Nga-Bun ([詹雅雯《貪心》](https://youtu.be/jTIldq-m2cY)). Or listen to the timeless melodies and stories in the songs _Káng-Piⁿ Sioh-Pia̍t_ (吳成家 + 陳達儒《港邊惜別》; 1938) and _An-Pêng Tui-Sióng Khek_ (許石《安平追想曲》; 1951), then proceed to listen to new compositions from CJ MiT and Bell Chung such as *Chhun-Thiⁿ ê Hoe* ([CJ MiT《春天的花》](https://youtu.be/kiyYBUOZCtM)) and _Phàng-Kìⁿ ê Lí_ ([鍾綺 Bell Chung 《紡見的你》](https://youtu.be/_amrF6QwbCU)).
 
