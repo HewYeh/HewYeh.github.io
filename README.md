@@ -1,9 +1,12 @@
-# Welcome! Hoan-Gêng (歡迎)!
+# Welcome! Hoan-Gêng (歡迎)! 👋
 
-# About
+# 🤓 About
 This blog is a place for me to share fun and niche facts for Taiwanese music enjoyers. I realized that over the years, I have collected a lot of cool facts about Taiwanese music history that would be cool to highlight. I also wanted to share my love for Taiwanese music and find people with similar interests!
 
-# The Diverse Landscape of Taiwanese Music
+---
+
+# 🗺️ The Diverse Landscape of Taiwanese Music
+*Created 2026 September 18, Last Updated 2026 September 19 *
 Part of the inspiration of this blog was the incredible diversity which exists within Taiwanese music. For example, you can listen to a French-inspired album by Siri Lee ([李竺芯《水 Súi》](https://youtu.be/ehl-pc0syCU)) and then proceed to listen to Taiwanese Enka by Chiam Nga-Bun ([詹雅雯《貪心》](https://youtu.be/jTIldq-m2cY)). Or listen to the timeless melodies and stories in the songs _Káng-Piⁿ Sioh-Pia̍t_ (吳成家 + 陳達儒《港邊惜別》; 1938) and _An-Pêng Tui-Sióng Khek_ (許石《安平追想曲》; 1951), then proceed to listen to new compositions from CJ MiT and Bell Chung such as *Chhun-Thiⁿ ê Hoe* ([CJ MiT《春天的花》](https://youtu.be/kiyYBUOZCtM)) and _Phàng-Kìⁿ ê Lí_ ([鍾綺 Bell Chung 《紡見的你》](https://youtu.be/_amrF6QwbCU)).
 
 ## Reflexivity
@@ -13,3 +16,17 @@ Similarly, in Ricky Hsiao's song _Bú-Tâi_ ([蕭煌奇《舞台》](https://you
 
 ## Non-Linear Time Progression
 An interesting feature of Taiwanese music history is that it does not follow a linear time progression. For example, a song such as Káng-Piⁿ Sioh-Pia̍t (港邊惜別) remain relevant today. In 2016, it was covered by [Hsieh Ming-Yu](https://youtu.be/NJwC4mrpe5I), where he added his own interpretation of the song. The original lyrics, despite being older than my grandparents, still paint a vivid departure scene at a harbor. Listeners can easily empathize with the heartbreak the composer poured into the song, recounting the feelings he experienced as he was separated from his wife and kids, mainly due to societal stigma around Taiwanese and Japanese intermarriage.
+
+## A Preview of Sub-Genres
+Before I write down some of the sub-genres that I think of when I think about Taiwanese music, I want to first point out that categorization is a difficult and subjective process. The categories that I form will likely differ from other people and reveal implicit gaps in my knowledge through how I emphasize some sub-genres and collapse along other genres. For instance, I regrettably cannot speak much about Indigenous and Hakka artists which leaves those two categories quite vague. I hope to learn more about Indigenous and Hakka music in the future. Additionally, the categories below are non-exhaustive since there are likely more that I am unaware of. I also believe that most songs and artists are not strictly bound to categories; most artists and songs can belong to multiple categories. For instance, the band 珂拉琪 Collage sings in Taigi, Amis, and Japanese. Another instance is how songs from Taiwanese hand puppet theater (布袋戲) may also be considered Taigi pop depending on who you ask as it was a dominant form of music at some point in time. Unfortunately, I believe that categorization is an inherently violent process because it can be reductionist and reproduce social value hierarchies. As a result, I apologize for the sub-genres that I did not differentiate in sufficient detail or the genres that I completely missed. This reflects my lack of experience with the entirety of Taiwanese music and does not reflect my intent to erase other genres or delimit the boundaries of where Taiwanese music starts and ends.
+
+A non-scientific and non-methodical Taiwanese Music landscape:
+- **Taigi Pop/Tai-Pop:** This is a vague category and it pretty much includes any and all popular Taiwanese songs. Examples include Jason Wang 王識賢, Tân Lûi 陳雷, Ricky Hsiao 蕭煌奇, CJ MiT, Bell Chung, 珂拉琪 Collage, plus historical pop singers like Tân It-Lông 陳一郎 and Se Kheng 西卿. This category is quite broad because it can contain both older music and rap.
+- **Taiwanese Enka:** This style was influenced by Japanese Enka and is marked by wide vibrato, melisma, slides, and the manipulation of nasality to create often melancholic songs that reference love or homesickness and nature. Examples include Chiam Ngá-Bûn 詹雅雯 and Yoyo Qiao 喬幼. Often times, Taiwanese Enka songs are covers of Japanese Enka songs with Taiwanese lyrics and a modified singing style.
+- **Pò͘-Tē-Hì (布袋戲):** Songs that come from hand puppet theater (this is really hard to translate).
+- **Taiwanese Opera/Koa-Á-Hì:** A unique form of opera that often contains very full chest vocal registers. Often times, tunes are recycled and new lyrics are inserted to tell stories.
+- **Liām-Koa (唸歌):** One of Taiwan's most precious traditional forms of music. Performers often use instruments like the goe̍h-khîm 月琴 and khak-á-hiân 殼仔絃 while singing and performing rhythmic monologues. This category also somewhat intersects with Taiwanese Opera because many tunes like 江湖調 and 七字調 are used in both. A quintessential artist is Iûⁿ Siù-Kheng 楊秀卿's songs. Check out this [video of her in a video game!] (https://youtu.be/fpupA5eWRs4)
+- **Lâm-Koán (南管/Southern Pipe):** This genre isn't really a dominant form of music anymore; however, has influenced the local music. For instance the song Siuⁿ-Si-Teng (相思燈) which kind of transcends many categories (like pop and Pò͘-Tē-Hì) but was influenced by Lâm-Koán.
+- **Indigenous Pop:** Popular music in the indigenous Formosan languages. For instance, 珂拉琪 Collage has songs that are entirely sung in Amis. Suming Rupi is another artist that uses Amis in their lyrics who the 2026 Best Indigenous Language Singer award.
+- **Hakka Pop:** Popular music in Taiwanese Hakka.
+- **Mandarin Pop:** Popular music in Mandarin.
