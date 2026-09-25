@@ -1,8 +1,0 @@
----
-layout: default
-title: "Home"
-permalink: /home/
----
-# 🏠 Welcome! Hoan-Gêng! 歡迎!
-
-Welcome to my blog about Taiwanese music where I can discuss ideas in Taiwanese music history, genres, and contemporary directions.
