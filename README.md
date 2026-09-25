@@ -6,7 +6,7 @@ This blog is a place for me to share fun and niche facts for Taiwanese music enj
 # Past Articles
 * [🌊 Happy Belated Birthday to Khó͘ Chio̍h (許石)! Let's Revisit An-Pêng Tui Sióng Khek (安平追想曲)!]
   \
-  _Some thoughts on the iconic Taiwanese song _
+  _Some thoughts on this iconic composition from 1951._
 * **[🗺️ The Diverse Landscape of Taiwanese Music](https://hewyeh.github.io//DiverseLandscape-TaiwaneseMusic/)**
   \
   _Diversity of Taiwanese music genres/history and how some modern compositions are reflexive in nature and comment on this._
