@@ -5,6 +5,7 @@ permalink: /DiverseLandscape-TaiwaneseMusic/
 ---
 # 🗺️ The Diverse Landscape of Taiwanese Music
 _Created 2026 September 18, Last Updated 2026 September 19_
+
 Part of the inspiration for this blog was the incredible diversity which exists within Taiwanese music. For example, you can listen to a French-inspired album by Siri Lee ([李竺芯《水 Súi》](https://youtu.be/ehl-pc0syCU)) and then proceed to listen to Taiwanese Enka by Chiam Ngá-Bûn ([詹雅雯《貪心》](https://youtu.be/jTIldq-m2cY)). Or listen to the timeless melodies and stories in the songs _Káng-Piⁿ Sioh-Pia̍t_ (吳成家 + 陳達儒《港邊惜別》; 1938) and _An-Pêng Tui-Sióng Khek_ (許石《安平追想曲》; 1951), then proceed to listen to new compositions from CJ MiT and Bell Chung such as *Chhun-Thiⁿ ê Hoe* ([CJ MiT《春天的花》](https://youtu.be/kiyYBUOZCtM)) and _Phàng-Kìⁿ ê Lí_ ([鍾綺 Bell Chung 《紡見的你》](https://youtu.be/_amrF6QwbCU)).
 
 ## Reflexivity
