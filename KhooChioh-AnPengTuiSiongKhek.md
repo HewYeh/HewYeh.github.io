@@ -16,7 +16,7 @@ I think one of the most fascinating aspects of this song is the lyrics. One of t
 
 Another cool thing about the lyrics is that it has been covered by a lot of people and sometimes people slightly change the lyrics by substituting some words with the same/similar meaning and a same/similar sound. For example:
  - In some versions, people say "im-sìn **choân** bô thong" (音信**全**無通) while others say im-sìn **lóng** bô thong" (音信**攏**無通)
- - Some versions also write out the lyrics "chí-ū kim si̍p-jī hō͘ gún bú-chhin chòe **ûi-ki**" as 只有金十字乎阮母親做**為記** whereas other versions write it out as **遺記** which both convey the meaning that there is only a golden cross (for this girl and her mother to remember the father by)
+ - Some versions also write out the lyrics "chí-ū kim si̍p-jī hō͘ gún bú-chhin chòe **ûi-kì**" as 只有金十字乎阮母親做**為記** whereas other versions write it out as **遺記** which both convey the meaning that there is only a golden cross (for this girl and her mother to remember the father by)
 
 
 # 🎤 Lyrics
