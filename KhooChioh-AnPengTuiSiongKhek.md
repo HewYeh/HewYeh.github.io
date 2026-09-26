@@ -10,11 +10,9 @@ permalink: /KhoChiohBirthday2026-AnPengTuiSiongKhek/
 # Ah~ i sī Hô-lân ê chûn-i (啞～伊是荷蘭个船醫).
 Góa kám-kak che sī chin chē lâng khó-lêng ba̍t thiaⁿ-kòe ê koa. Góa mā chiok ài chit siú koa. :D\
 
-I feel like An-Pêng Tui Sióng Khek is one of the most iconic historical Taiwanese songs. One night in the late-fall of 2022, I recall coding Python at my computer when my mom overhead this song playing! She sang the Ah~ part of the melody and was shocked that I was listening to this song. (And I was shocked that she recognized it because I had just discovered it through YouTube autoplay.) I suppose that some songs truly transcend time.
+I feel like An-Pêng Tui Sióng Khek is one of the most iconic historical Taiwanese songs that I can think of. One night in the late-fall of 2022, I recall coding Python at my computer when my mom overhead this song playing. She sang the Ah~ part of the melody and was shocked that I was listening to this song. (And I was shocked that she recognized it because I had just discovered it through YouTube autoplay.) I suppose that some songs truly transcend time.
 
-This beautiful and catchy song combines a rhythmic and melancholic melody with lyrics that commemorates a love story of a girl (Kim sió-chiá; 金小姐) reminiscing and waiting for her lover who was a Dutch naval doctor at sea. The song was written by Khó͘ Chio̍h 許石 lyrics were written by Tân Ta̍t-Jû 陳達儒 and was first released on vinyl sung by an artist named 美美.
-
-I was inspired to make this post by a [reel I saw on Instagram by @williethepianist](https://www.instagram.com/reel/DdoQtbXnQ8M) that talked about this song since the composer (Khó͘ Chio̍h; 許石 just passed on September 23rd). Born in 1919 (107 years ago), Khó͘ Chio̍h
+This beautiful and catchy song combines a rhythmic and melancholic melody with lyrics that commemorates a love story of a girl (Kim sió-chiá; 金小姐) reminiscing and waiting for her lover who was a Dutch naval doctor at sea. The melody was written by Khó͘ Chio̍h 許石, the lyrics were written by Tân Ta̍t-Jû 陳達儒, and was first performed by an artist named 美美 in 1951 which was 75 years ago as of the time of writing this article. I recently saw a post on Instagram by [@williethepianist](https://www.instagram.com/reel/DdoQtbXnQ8M) that talked about this song since the composer's birthday was on September 23rd.
 
 # 🎤 Lyrics
 Below are the lyrics transcribed in the Ministry of Education's character standard and Tâi-Lô romanization system by WB Chen from 臺語歌真正正字歌詞網. You can visit this wonderful resource at: https://taigilyrics.kiantiong.com
