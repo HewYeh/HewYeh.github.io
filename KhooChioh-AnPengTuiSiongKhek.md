@@ -84,8 +84,8 @@ An-pîng sûn-tsîng Kim sió-tsiá\
 ah\~ tán lí ji̍p káng tâng-lô siann
 
 # 🎤 Bonus Lyrics
-This bootleg version of this song/parody set of lyrics was sent to me by a friend and I pulled it from this website: https://giveme555.pixnet.net/blog/posts/1031676773
-It is about a person trying to find a husband but accidentally finding the astronaut Neil Armstrong:
+This bootleg version of this song/parody set of lyrics was sent to me by a friend and I pulled it from this [website](https://giveme555.pixnet.net/blog/posts/1031676773
+. It is about a person trying to find a husband but accidentally finding the astronaut Neil Armstrong 🤣.
 ### 阿姆斯壯之歌
 
 十三十四轉大人，十七十八啊水噹噹\
