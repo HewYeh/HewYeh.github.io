@@ -6,21 +6,21 @@ permalink: /KhoChiohBirthday2026-AnPengTuiSiongKhek/
 
 # 🌊 Happy Belated Birthday to Khó͘ Chio̍h (許石)! Let's Revisit An-Pêng Tui Sióng Khek (安平追想曲)!
 
-*Created 2026 September 25.*
+*Created 2026 September 25; Updated 2026 September 26*
 
-I recently saw a post on Instagram by [@williethepianist](https://www.instagram.com/reel/DdoQtbXnQ8M) that talked about this song since the composer's birthday was on September 23rd! Which made me realize I have been meaning to write a post about this song for a bit. This is definitely one of the most iconic historical Taiwanese songs that I can think of. Simply singing the `ah~` sliding note from the `ah~ i sī hô-lân ê chûn-i (啞～伊是荷蘭个船醫)` is enough for my mom to recognize this song when I first started listening to this song in 2022 (thank you YouTube autoplay for working your magic when I was coding).
+I recently saw an educational post on Instagram by [@williethepianist](https://www.instagram.com/reel/DdoQtbXnQ8M) that featured the song _An-Pêng Tui Sióng Khek_ (安平追想曲) since the composer's birthday was on September 23rd! This made me realize I have been meaning to write a post about this song for a while. _An-Pêng Tui Sióng Khek_ is definitely one of the most iconic historical Taiwanese songs that I can think of. Simply singing the `ah~` sliding note from the `ah~ i sī hô-lân ê chûn-i (啞～伊是荷蘭个船醫)` was enough for my mom to recognize this song when I first started listening to this song in 2022 (thank you YouTube autoplay for working your magic when I was coding).
 
-This catchy song combines a rhythmic and melancholic melody with lyrics that commemorates a love story of a girl (Kim sió-chiá; 金小姐) reminiscing and waiting for her lover who was a Dutch naval doctor at sea. The melody was written by Khó͘ Chio̍h 許石, the lyrics were written by Tân Ta̍t-Jû 陳達儒, and was first performed by an artist named 美美 in 1951, which was 75 years ago as of the time of writing this article. The lyrics vividly paint a scene of a young girl wearing a dress with her blond hair billowing in the wind while she misses her lover who is a Dutch naval doctor at sea. By the ocean, she receives no indication of her lover's ship and is only left with the cool ocean breeze while she wonders if she was stupidly waiting for someone who would never return.
+This catchy song combines a rhythmic and melancholic melody with lyrics that commemorates a love story of a girl (Kim sió-chiá; 金小姐) reminiscing and waiting for her lover who was a Dutch naval doctor at sea. Khó͘ Chio̍h (許石) originally wrote the melody for the song and asked Tân Ta̍t-Jû (陳達儒) to add the lyrics for the song, and the song was first performed by an artist named 美美 in 1951 (75 years ago as of the time of writing this article). The lyrics vividly paint a scene of a young girl wearing a dress with her blond hair billowing in the wind while she misses her lover who is a Dutch naval doctor at sea. By the ocean, she receives no indication of her lover's ship and is only left with the cool ocean breeze while she wonders if she was stupidly waiting for someone who would never return.
 
-I think one of the most fascinating aspects of this song is the lyrics. One of the benefits of looking at historical songs like this is that it also gives us a glimpse of what words people may have considered as rhyming. For example, in the beginning of the song, all the lines end with -ong, but them middle has a mix of -i and -iⁿ, and at the very end, there is a mix of ia, iaⁿ, -iah. This may suggest that those phonemic contrasts between -i and -iⁿ as well as -ia, iaⁿ, and iah are not considered that important when writing poetry/lyrics. Indeed, when singing the song, these lines do indeed sound like they rhyme.
+I think one of the most fascinating aspects of this song is the lyrics. One of the benefits of looking at historical songs like this is that it also gives us a glimpse of what words people may have considered as rhyming. For example, in the beginning of the song, all the lines end with -ong which makes sense for a rhyme. In the middle, the lines end with a mix of -i and -iⁿ, and at the very end, there is a mix of ia, iaⁿ, -iah. This may suggest that those phonemic contrasts between -i and -iⁿ as well as -ia, iaⁿ, and iah are not considered that important when writing poetry/lyrics. Indeed, when singing the song, these lines do indeed sound like they rhyme.
 
-Another cool thing about the lyrics is that it has been covered by a lot of people and sometimes people slightly change the lyrics by substituting some words with the same/similar meaning and a same/similar sound. For example:
+Another cool thing about the lyrics is that it has been covered by a lot of people and people may change the lyrics by substituting some words with another word with a similar/identical meaning/sound. For example:
  - In some versions, people say "im-sìn **choân** bô thong" (音信**全**無通) while others say im-sìn **lóng** bô thong" (音信**攏**無通)
- - Some versions also write out the lyrics "chí-ū kim si̍p-jī hō͘ gún bú-chhin chòe **ûi-kì**" as 只有金十字乎阮母親做**為記** whereas other versions write it out as **遺記** which both convey the meaning that there is only a golden cross (for this girl and her mother to remember the father by)
+ - Some versions some people also write out the lyrics "chí-ū kim si̍p-jī hō͘ gún bú-chhin chòe **ûi-kì**" as 只有金十字乎阮母親做**為記** whereas other versions write it out as **遺記** which both convey the meaning that there is only a golden cross for this girl and her mother to remember the father by.
 
 
 # 🎤 Lyrics
-Below are the lyrics transcribed in the Ministry of Education's character standard and Tâi-Lô romanization system by WB Chen from 臺語歌真正正字歌詞網. You can visit this wonderful resource at: https://taigilyrics.kiantiong.com
+Below are the lyrics transcribed in the Ministry of Education's character standard and Tâi-Lô romanization system by WB Chen from [臺語歌真正正字歌詞網](https://taigilyrics.kiantiong.com).
 
 身穿花紅長洋裝\
 sin tshīng hue-âng tn̂g iûnn-tsong\
@@ -40,8 +40,8 @@ sim-tsîng bô-tè kóng\
 siunn-si kià tio̍h hái-pinn hong\
 海風無情笑阮戇\
 hái-hong bô-tsîng tshiò gún gōng\
-啊~毋知初戀心茫茫。\
-ah~ m̄-tsai tshoo-luân sim bông-bông\
+啊\~毋知初戀心茫茫。\
+ah\~ m̄-tsai tshoo-luân sim bông-bông\
 想思情郎想自己\
 siūnn-si tsîng-lông siūnn tsū-kí\
 毋知爹親二十年\
@@ -60,8 +60,8 @@ thiann bú tshoo kóng-khí\
 jú siūnn put-hīng jú ai-pi\
 到底現在生抑死\
 tàu-té hiān-tsāi sinn ia̍h sí\
-啊~伊是荷蘭的船醫\
-ah~ i sī Hô-lân ê tsûn-i\
+啊\~伊是荷蘭的船醫\
+ah\~ i sī Hô-lân ê tsûn-i\
 想起母囝的運命\
 siūnn-khí bú-kiánn ê ūn-miā\
 心肝想爹也怨爹\
@@ -80,5 +80,19 @@ bāng hiann ê tsûn-tsiah\
 tsá-ji̍t huê-kui An-pîng-siânn\
 安平純情金小姐\
 An-pîng sûn-tsîng Kim sió-tsiá\
-啊~等你入港銅鑼聲\
-ah~ tán lí ji̍p káng tâng-lô siann\
+啊\~等你入港銅鑼聲\
+ah\~ tán lí ji̍p káng tâng-lô siann
+
+# 🎤 Bonus Lyrics
+This bootleg version of this song/parody set of lyrics was sent to me by a friend and I pulled it from this website: https://giveme555.pixnet.net/blog/posts/1031676773
+It is about a person trying to find a husband but accidentally finding the astronaut Neil Armstrong:
+### 阿姆斯壯之歌
+
+十三十四轉大人，十七十八啊水噹噹\
+想欲來嫁翁，又擱揣無人，揣著一個美國人\
+\
+生做人大箍，又擱彼大欉，喙鬚鬍鬍驚死人\
+原來伊是阿姆斯壯，啊～～伊是一個太空人\
+\
+膨肚咧短命，短命，短命，短命\
+膨肚咧短命，短命，短命，短命  
